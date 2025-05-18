@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+  <meta charset="UTF-8">
+  <title>Hanime Balkan/Početna</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="theme-color" content="#000000D4">
+  <link rel="icon" href="../slike-hbalkan/favicon_32x32.png" type="image/png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  
+  <!-- CSS za desktop -->
+  <link rel="stylesheet" href="style-pc.css" media="(min-width: 769px)">
+  <!-- CSS za mobitele -->
+  <link rel="stylesheet" href="../css/mobile-pocetna.css" media="(max-width: 768px)">
+  
+  
+</head>
+<body>
+  <div class="traka">
+    <div class="menu-icon" id="menu-icon">
+      <div class="line" id="line1"></div>
+      <div class="line" id="line2"></div>
+    </div>
+    
+  <h1 id="bane">
+    <span id="velih">H</span><span class="typing">anime Balkan</span>
+  </h1>
+
+    <div id="meni">
+
+      <button onclick="toggleSearch()" class="search-toggle-button">
+        <i class="fas fa-search"></i>
+      </button>
+    </div>
+
+    <div id="searchBox">
+      <div class="search-container">
+        <input type="text" class="search-box" placeholder="Pretraga" id="searchInput">
+        <button class="search-button" onclick="search()">
+          <i class="fas fa-search search-icon"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+  
+  <div class="overlay" id="overlay"></div>
+  
+  
+  <div class="menu" id="menu">
+  	<button id="vrati"> < ---</button>
+  	
+  	
+    <ul>
+      <li><a href="#">Početna</a></li>
+      <li><a href="#">O nama</a></li>
+      <li><a href="#">Usluge</a></li>
+      <li><a href="#">Kontakt</a></li>
+    </ul>
+    
+  </div>
+  
+  <script src="../js/pocetna.js"></script>
+</body>
+</html>

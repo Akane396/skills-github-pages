@@ -1,0 +1,144 @@
+[
+	{
+		"id": "naruto shippuden",
+		"naziv": "Naruto Shippuden",
+		"slika": "../slike/Naruto.jpg",
+		"opis": "Naruto Shippuuden je nastavak prve sezone, smešten dvije i po godine kasnije. Naruto se vraća u Konohu, susreće stare i nove prijatelje te se suočava s novim neprijateljima. Prva misija mu je spasiti Gaaru, Kazekagea Sune, dok se bori protiv zloglasne organizacije Akatsuki.",
+		"epizode": [
+			{ "broj": 1, "video": "vi.2.mp4" },
+			{ "broj": 2, "video": "video.1.mp4" },
+			{ "broj": 3, "video": "video/naruto3.mp4" },
+			{ "broj": 4, "video": "vi.2.mp4" },
+			{ "broj": 5, "video": "video.1.mp4" },
+			{ "broj": 6, "video": "video/naruto3.mp4" },
+			{ "broj": 7, "video": "vi.2.mp4" },
+			{ "broj": 8, "video": "video.1.mp4" },
+			{ "broj": 9, "video": "video/naruto3.mp4" },
+			{ "broj": 10, "video": "vi.2.mp4" },
+			{ "broj": 11, "video": "video.1.mp4" },
+			{ "broj": 12, "video": "video/naruto3.mp4" },
+			{ "broj": 13, "video": "vi.2.mp4" },
+			{ "broj": 14, "video": "video.1.mp4" },
+			{ "broj": 15, "video": "video/naruto3.mp4" },
+			{ "broj": 16, "video": "vi.2.mp4" },
+			{ "broj": 17, "video": "video.1.mp4" },
+			{ "broj": 18, "video": "video/naruto3.mp4" },
+			{ "broj": 19, "video": "vi.2.mp4" },
+			{ "broj": 20, "video": "video.1.mp4" },
+			{ "broj": 21, "video": "video/naruto3.mp4" },
+			{ "broj": 22, "video": "vi.2.mp4" },
+			{ "broj": 23, "video": "video.1.mp4" },
+			{ "broj": 24, "video": "video/naruto3.mp4" },
+			{ "broj": 25, "video": "vi.2.mp4" },
+			{ "broj": 26, "video": "video.1.mp4" },
+			{ "broj": 27, "video": "video/naruto3.mp4" },
+			{ "broj": 28, "video": "vi.2.mp4" },
+			{ "broj": 29, "video": "video.1.mp4" },
+			{ "broj": 30, "video": "video/naruto3.mp4" },
+			{ "broj": 31, "video": "vi.2.mp4" },
+			{ "broj": 32, "video": "video.1.mp4" },
+			{ "broj": 33, "video": "video/naruto3.mp4" }
+    ],
+    "sazona": "Zima 2007",
+    "tip": "TV",
+    "broj.ep": "500",
+    "prevodioc": "AnimeSrbija",
+    "izvor": "Manga",
+    "datum": "15.2.2007 do 2017",
+		"status": "Završen",
+		"studijo": "Pierrot",
+		"stprevođenja": "Završeno",
+		"zanrovi": ["Akcija", "Avantura", "Borba"]
+  },
+	
+	{
+		"id": "citrus",
+		"naziv": "Citrus",
+		"slika": "../slike/citrus.jpg",
+		"opis": "Tokom leta prve godine srednje škole, Yuzu se zbog majčine udaje prebacuje u novu, strogu školu. Nada se novim prijateljima i prvoj ljubavi, ali ubrzo nailazi na razočaranje. Njena pojava privlači pažnju Mei, članice učeničkog veća. Šta će se dalje desiti?",
+		"epizode": [
+			{ "broj": 1, "video": "vi.2.mp4" },
+			{ "broj": 2, "video": "video.1.mp4" },
+			{ "broj": 3, "video": "video/naruto3.mp4" }
+      ],
+    "sazona": "Zima 2018",
+    "tip": "TV",
+    "broj.ep": "12",
+    "prevodioc": "?",
+    "izvor": "Manga",
+    "datum": "6.2.2018 do 2018",
+    "status": "Završen",
+    "studijo": "Passione",
+    "stprevođenja": "Završeno",
+    "zanrovi": ["Romansa","Girls Love", "Drama", "Škola"]
+  },
+
+
+	{
+		"id": "kiss and sis",
+		"naziv": "Kiss and sis",
+		"slika": "../slike/kissandsis.jpg",
+		"opis": "Nakon majčine smrti, Keitin otac se ponovno ženi, donoseći u njegov život bliznakinje Ako i Riku. Od prvog susreta, sestre razvijaju zabranjene osjećaje prema njemu i bore se za njegovo srce. Na kraju srednje škole, Keita se trudi upisati istu školu kao one, dok se nosi s vlastitim emocijama i sve većim iskušenjima – ne samo od sestara.",
+		"epizode": [
+			{ "broj": 1, "video": "vi.2.mp4" },
+			{ "broj": 2, "video": "video.1.mp4" },
+			{ "broj": 3, "video": "video/naruto3.mp4" }
+      ],
+    "sazona": "Proljijeće 2010",
+    "tip": "TV",
+    "broj.ep": "12",
+    "prevodioc": "?",
+    "izvor": "Manga",
+    "datum": "13.2.2021 do 2021",
+    "status": "Završen",
+    "studijo": "Feel",
+    "stprevođenja": "Završeno",
+    "zanrovi": ["Ecci", "Harem","Romansa", "Škola"]
+  },
+  
+  	{
+		"id": "the eminence in shadow",
+		"naziv": "The Eminence in Shadow",
+		"slika": "../slike/emi.jpg",
+		"opis": "Cid ne želi da bude heroj ni zlikovac — već mozak iz senke. U prošlom životu to nije uspio, ali nakon reinkarnacije u svetu magije, kreira lažnu organizaciju Shadow Garden da bi, iz pozadine, uništio izmišljeni kult. Međutim, kult Diabolos se ispostavlja kao stvaran, pa Cid, misleći da glumi, nesvjesno vodi rat iz senke.",
+		"epizode": [
+			{ "broj": 1, "video": "vi.2.mp4" },
+			{ "broj": 2, "video": "video.1.mp4" },
+			{ "broj": 3, "video": "video/naruto3.mp4" }
+      ],
+    "sazona": "Jesen 2022",
+    "tip": "TV",
+    "broj.ep": "32",
+    "prevodioc": "?",
+    "izvor": "Manga",
+    "datum": "2022 do 2023",
+    "status": "Završen",
+    "studijo": "Nexus",
+    "stprevođenja": "Završeno",
+    "zanrovi": ["Akcija", "Fantazija","Komedija"]
+  },
+  
+  {
+  	"id": "netsuzou trap",
+  	"naziv": "Netsuzou Trap",
+  	"slika": "../slike/nettr.jpg",
+  	"opis": "Srednjoškolke Yuma i Hotaru su prijateljice iz detinjstva koje provode vreme sa svojim momcima, uživajući u bezbrižnom tinejdžerskom životu. Međutim, tokom jednog druženja, Hotaru neočekivano prelazi granicu i pokazuje Yumi više od prijateljskih osećanja, što stvara konfuziju i napetost u njihovom odnosu.",
+  	"epizode": [
+  		{ "broj": 1, "video": "vi.2.mp4" },
+  		{ "broj": 2, "video": "video.1.mp4" },
+  		{ "broj": 3, "video": "video/naruto3.mp4" }
+        ],
+  	"sazona": "Leto 2017",
+  	"tip": "TV",
+  	"broj.ep": "12",
+  	"prevodioc": "AnimeSrbija",
+  	"izvor": "Manga",
+  	"datum": "5.7 2017 do 20.9 2017",
+  	"status": "Završen",
+  	"studijo": "?",
+  	"stprevođenja": "Završeno",
+  	"zanrovi": ["Drama", "Romansa", "Girls Love"]
+  }
+
+
+]

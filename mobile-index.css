@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+
+}
+
+body{
+	  background: #000000;
+}
+
+#loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 758.3px;
+  background: #000000;
+  color: white;
+}
+
+#dots::after {
+  content:"";
+  animation: dots 1.5s infinite;
+}
+
+@keyframes dots {
+  0%   { content: "."; }
+  20%  { content: ".."; }
+  40%  { content: "..."; }
+  60%  { content: "...."; }
+  80%  { content: "..."; }
+  90%  { content: ".."; }
+  100% { content: "."; }
+}
+
+#mainContent {
+ display: none;
+}
+    
+.crveno {
+  color: #B52525;
+  font-size: 40px;
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Veideji</title>
+    <meta name="theme-color" content="#000000D4">
+  <link rel="icon" href="../slike-hbalkan/favicon_32x32.png" type="image/png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  
+  <!-- CSS za desktop -->
+  <link rel="stylesheet" href="" media="(min-width: 769px)">
+  <!-- CSS za mobitele -->
+  <link rel="stylesheet" href="../css/video.css" media="(max-width: 768px)">
+  
+</head>
+<body>
+	
+  <div class="traka">
+  	<div class="menu-icon" id="menu-icon">
+  		<div class="line" id="line1"></div>
+  		<div class="line" id="line2"></div>
+  	</div>
+
+  	<h1 id="bane">
+  		<span id="velih">H</span><span class="typing">anime Balkan</span>
+  	</h1>
+
+  	<div id="meni">
+
+  		<button onclick="toggleSearch()" class="search-toggle-button">
+  			<i class="fas fa-search"></i>
+  		</button>
+  	</div>
+
+  	<div id="searchBox">
+  		<div class="search-container">
+  			<input type="text" class="search-box" placeholder="Pretraga" id="searchInput">
+  			<button class="search-button" onclick="search()">
+  				<i class="fas fa-search search-icon"></i>
+  			</button>
+  		</div>
+  	</div>
+  </div>
+
+  <div class="overlay" id="overlay"></div>
+
+
+  <div class="menu" id="menu">
+
+ <button id="vrati">	< ---</button>
+
+  <ul>
+   <li><a href="#">Početna</a></li>
+   <li><a href="#">O nama</a></li>
+   <li><a href="#">Usluge</a></li>
+   <li><a href="#">Kontakt</a></li>
+  </ul> 
+ </div>
+	
+  <div id="anime-detalji">
+    <h1 id="naslov"></h1>
+
+    <video id="video" controls>
+      <source id="video-src" src="" type="video/mp4">
+      Tvoj preglednik ne podržava video tag.
+    </video>
+
+    <h3>Epizode:</h3>
+    <ul id="lista-epizoda"></ul>
+   
+    <h2 id="osis">Opis:</h2>
+    <p id="opis"></p>
+    <p id="zanrovi"></p>
+    <img id="slika" src="" alt="Slika animea">
+  
+<div id="container">
+  <div id="levo">
+    <p id="sazona"></p>
+    <p id="tip"></p>
+    <p id="br_ep"></p>
+    <p id="prevo"></p>
+    <p id="izvor"></p>
+  </div>
+
+  <div id="desno">
+    <p id="datum"></p>
+    <p id="status"></p>
+    <p id="studijo"></p>
+    <p id="st_prevod"></p>
+  </div>
+</div>
+
+
+</div>
+ <script src="../js/video.js"></script>
+</body>
+</html>
